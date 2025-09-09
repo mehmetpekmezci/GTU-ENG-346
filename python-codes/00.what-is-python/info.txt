@@ -1,0 +1,15 @@
+1. yum search python3*  /  apt search python3
+
+2. pip3 install regex
+   ## root iseniz /usr/lib veya /usr/lib64 altina
+   ## root degilseniz .local/lib/python3* altina 
+
+3. .local/lib/python3* altındaki dosyaları tarlayip /my_python_libs altina acarsaniz
+   ortamda PYTHONPATH=/my_python_libs  degiskenini set etmelisiniz.
+   (internetten indirip lokale aldiginizda mesela)
+
+4. python bir interpreted dildir.
+    2.1. direk makine koduna compile olan diller : c, c++, rust, go
+    2.2. byte code ( ara durum) derlenen diller : java, kotlin, ...  (bu byte kodlar direk calismaz JVM'e bu byte codelari vererek calistiririz.)
+    2.3  interpreted diller :  python, perl, php, bash, ... ( hic derlenmez, txt halinde direk bu dili anlayan programa verilir, o program bu komutlari calistirir)
+    

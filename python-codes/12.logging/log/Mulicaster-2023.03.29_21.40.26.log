@@ -1,0 +1,2 @@
+2023-03-29 21:40:26,178 - Mulicaster - WARNING - We are starting to bind :224.0.0.1:55555
+2023-03-29 21:40:47,594 - Mulicaster - ERROR - We have an error while self.sock.recvfrom

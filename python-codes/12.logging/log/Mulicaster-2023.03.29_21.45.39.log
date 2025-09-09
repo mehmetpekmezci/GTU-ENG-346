@@ -1,0 +1,4 @@
+2023-03-29 21:45:39,593 - Mulicaster - WARNING - We are starting to bind :224.0.0.1:55555
+2023-03-29 21:46:01,572 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:46:32,303 - Mulicaster - INFO - Received Data = Hello World! from ('192.168.1.107', 56640)
+2023-03-29 21:46:39,585 - Mulicaster - ERROR - We have an error while self.sock.recvfrom

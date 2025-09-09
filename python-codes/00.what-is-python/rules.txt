@@ -1,0 +1,35 @@
+0. Write READABLE and EASY-TO-MAINTAIN code !!!
+
+1. Use Classes / functions as much as you can.
+
+2. No global variable in a function (always known inputs and outputs)
+
+3. Always use logger
+
+4. Always write tests before writing program.  (unit/integration/scenatio/smoke)
+   And normal surce codes / test codes should to DIFFERENT DIRECTORIES
+
+5. Write your tests Data Driven. ( Do not write a test function for all tests, you should write a function derivable using different sets of data  )
+
+6. Use libraries as much as you can. (Do not invent!)
+   Open source libraries are tested and corrected better than any other code. Do not write a function on your own if there exists any library for that function.
+
+7. All variables are on top ( Class/function or python file)
+
+8. All imports are on top.
+
+9. Always use long descriptive names for functions/classes/variables. Do not use i,j ....
+
+10. Follow PEP8 standard.
+
+11. Always check your memory usage :
+    print(sys.getsizeof(mylist))
+
+12. Use Frameworks :
+    https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-22-04
+    https://www.django-rest-framework.org/
+    https://www.fullstackpython.com/react.html
+    https://flask.palletsprojects.com
+    https://falconframework.org/
+
+

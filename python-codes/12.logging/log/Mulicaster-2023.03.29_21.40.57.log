@@ -1,0 +1,21 @@
+2023-03-29 21:40:57,638 - Mulicaster - WARNING - We are starting to bind :224.0.0.1:55555
+2023-03-29 21:40:58,640 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:40:59,642 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:00,643 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:01,645 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:02,647 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:03,648 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:04,650 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:05,651 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:06,653 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:07,655 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:08,657 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:08,658 - Mulicaster - CRITICAL - We have an error while self.sock.recvfrom for 10 seconds !!!
+2023-03-29 21:41:09,659 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:10,660 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:11,662 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:12,664 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:13,666 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:14,667 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:15,669 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
+2023-03-29 21:41:16,671 - Mulicaster - ERROR - We have an error while self.sock.recvfrom
