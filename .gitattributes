@@ -3,3 +3,4 @@ videos/DERS-4-SESSION-2-OBJECT_ORIENTED_PROGRAMMING-2025-10-15.webm filter=lfs d
 videos/DERS-5-complexity-EN-2025-10-28_18.38.23.mp4 filter=lfs diff=lfs merge=lfs -text
 videos/DERS-5-complexity-TR-2025-10-28_19.26.55.mp4 filter=lfs diff=lfs merge=lfs -text
 videos/list.txt filter=lfs diff=lfs merge=lfs -text
+videos/DERS-6-ListsTuplesMaps-2025-11-05-151043.webm filter=lfs diff=lfs merge=lfs -text
