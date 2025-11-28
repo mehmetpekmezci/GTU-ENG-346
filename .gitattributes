@@ -7,3 +7,4 @@ videos/DERS-6-ListsTuplesMaps-2025-11-05-151043.webm filter=lfs diff=lfs merge=l
 videos/DERS-7-Recursion-2025.11.16-00.33.00.mkv filter=lfs diff=lfs merge=lfs -text
 videos/DERS-8-Stacks-And_Queues-2025-11-19-135915.webm filter=lfs diff=lfs merge=lfs -text
 videos/DERS-9-LinkedLists-Trees-2025-11-19-145855.webm filter=lfs diff=lfs merge=lfs -text
+videos/DERS-10-Sorting-2025-11-26-142635.webm filter=lfs diff=lfs merge=lfs -text
