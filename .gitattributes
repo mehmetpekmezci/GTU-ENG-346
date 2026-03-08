@@ -14,3 +14,4 @@ videos/2026-02-18-140940.webm filter=lfs diff=lfs merge=lfs -text
 videos/DERS-1-INTRODUCTION.webm filter=lfs diff=lfs merge=lfs -text
 videos/DERS-2-PYTHON-BASICS-ENG.webm filter=lfs diff=lfs merge=lfs -text
 videos/DERS-2-PYTHON-BASICS-TR.webm filter=lfs diff=lfs merge=lfs -text
+videos/DERS-3-MATRIX-OPERATIONS-AND-NUMPY.webm filter=lfs diff=lfs merge=lfs -text
