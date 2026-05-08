@@ -24,3 +24,7 @@ videos/DERS-5-Complexity-2026-04-15-142755.webm filter=lfs diff=lfs merge=lfs -t
 videos/DERS-5-LISTS-MAPS-2026-04-15-155139.webm filter=lfs diff=lfs merge=lfs -text
 videos/DERS-6-LINKED-LISTS-2026-04-22-150925.webm filter=lfs diff=lfs merge=lfs -text
 videos/DERS-6-RECURSION-2026-04-22-135854.webm filter=lfs diff=lfs merge=lfs -text
+videos/DERS-7-SORTING-2026-04-29-152518.webm filter=lfs diff=lfs merge=lfs -text
+videos/DERS-7-TREES-2026-04-29-140927.webm filter=lfs diff=lfs merge=lfs -text
+videos/DERS-8-GRAPHS-ENGLISH-2026-05-06-140830.webm filter=lfs diff=lfs merge=lfs -text
+videos/DERS-8-GRAPHS-TURKISH-2026-05-06-153239.webm filter=lfs diff=lfs merge=lfs -text
